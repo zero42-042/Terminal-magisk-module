@@ -1,0 +1,11 @@
+<permissions>
+    <privapp-permissions package="com.android.virtualization.terminal">
+        <permission name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.POST_NOTIFICATIONS"/>
+        <permission name="android.permission.FOREGROUND_SERVICE"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.USE_CUSTOM_VIRTUAL_MACHINE"/>
+        <permission name="android.permission.MANAGE_VIRTUAL_MACHINE"/>
+    </privapp-permissions>
+</permissions>
