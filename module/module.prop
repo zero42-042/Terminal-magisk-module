@@ -1,0 +1,6 @@
+id=systerminal
+name=sys terminal
+version=1.0
+versionCode=1
+author=zero42
+description=hidden android terminal as a priv app via magisk overlay
